@@ -1,7 +1,7 @@
 # Setup (Currently for MacOS ONLY)
 1. run `setup.py`
 
-2. go into `main.py` and set `FirefoxAppPath` at the beginning of the file to the path to the `Firefox.app` on your system.
+2. go into `main.py` and set `FirefoxAppPath` to the path to the `Firefox.app` on your system.
 
 3. configure the settings in `settings.py`
 
