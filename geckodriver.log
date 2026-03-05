@@ -620,3 +620,40 @@ Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1772745290694	geckodriver	INFO	Listening on 127.0.0.1:57090
+1772745291211	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/Applications/Firefox. ... les/13qyqlre.default-release" "--remote-debugging-port" "57091" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote"
+Read port: 56923
+Read port: 56923
+Read port: 56923
+Read port: 56923
+Read port: 56923
+Read port: 56923
+Read port: 56923
+Read port: 56923
+Read port: 56923
+Read port: 56923
+Read port: 56923
+1772745292268	Marionette	INFO	Marionette enabled
+2026-03-05 21:14:52.330 Firefox GPU Helper[5050:1622377] Failure on line 687 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+Read port: 56923
+2026-03-05 21:14:52.434 Firefox GPU Helper[5050:1622377] Error received in message reply handler: Connection invalid
+2026-03-05 21:14:52.434 Firefox GPU Helper[5050:1622393] Connection Invalid error for service com.apple.hiservices-xpcservice.
+Read port: 56923
+1772745292526	Marionette	INFO	Listening on port 57108
+Read port: 57108
+WebDriver BiDi listening on ws://127.0.0.1:57091
+1772745292666	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1772745295704	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.error: [Exception... "Favicon at "https://api-3c4fa2e2.duosecurity.com/favicon.ico" failed to load."  nsresult: "0x805303f4 (NS_ERROR_DOM_BAD_URI)"  location: "JS frame :: resource:///modules/FaviconLoader.sys.mjs :: onStopRequest :: line 274"  data: no]
+console.error: [Exception... "Component is not available"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "<unknown>"  data: no]
+1772745300486	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart, line 8: Script terminated by timeout at:
+nrWrapper@https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart:8:29994
+
+JavaScript warning: https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart, line 8: Script terminated by timeout at:
+nrWrapper@https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart:8:29994
+
+1772745362844	Marionette	INFO	Stopped listening on port 57108

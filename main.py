@@ -8,16 +8,27 @@ from selenium.webdriver.firefox.service import Service as FirefoxService
 from selenium.webdriver.firefox.options import Options
 import securepassword
 
+FirefoxAppPath = "/Applications/Firefox.app"
+
 def main():
     print("===================Speed Enroller v2=====================")
     if s.testing:
         s.simpleMode = True if input("Simple Mode? (y/n): ") == 'y' else False
-        s.id = ""
-        s.pw = ""
-        s.targetTime = datetime.datetime.now() + datetime.timedelta(minutes=1.5)
-        s.CLICKTEXT = "Continue"
+        if s.simpleMode:
+            s.id = ""
+            s.pw = ""
+            s.targetTime = datetime.datetime.now() + datetime.timedelta(minutes=1.5)
+            s.CLICKTEXT = "Continue"
+        else:
+            s.id = input("ERAU login ID: ")
+            s.pw = securepassword.getpass("ERAU login PW: ")
+            now = datetime.datetime.now()
+            goal = datetime.datetime.strptime(input("Target Time (HH:MM): "), "%H:%M")
+            s.targetTime = datetime.datetime.now() + datetime.timedelta(minutes=1.5)
+            s.CLICKTEXT = "Continue"
     else:
         if (s.id and s.pw and s.targetTime) == "" and s.testing == False:
+            print("OOPS, you forgot to configure your username, password, and time")
             s.id = input("ERAU login ID: ")
             s.pw = securepassword.getpass("ERAU login PW: ")
             now = datetime.datetime.now()
@@ -34,7 +45,7 @@ def main():
 
     print("Starting web driver...")
     
-    FirefoxAppPath = "/Applications/Firefox.app"
+    
     
     options = Options()
     home = os.path.expanduser("~")
