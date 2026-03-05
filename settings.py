@@ -9,9 +9,9 @@ simpleMode = ""
 # ---------- SETTING TO FALSE SETS USERNAME AND PASSWORD TO NOTHING AND IT DOESNT MAKT IT PAST OKTA LOGIN  ----------- #
 
 # ----------------------------------------------------------------------------------------- #
-id = ''
-pw = ''
-targetTime = ''
+id = ""
+pw = ""
+targetTime = ""
 DEV_TABS = 2
 SHOPPING_CART_DELAY = 5
 CLICKTEXT = ""
