@@ -1,0 +1,622 @@
+1772741093801	geckodriver	INFO	Listening on 127.0.0.1:55591
+1772741094315	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-profile" "/Users/christopherreali/Library/Application Support/Firefox/Profiles/13qyqlre.default-release" "--remote-debugging-port" "55592" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote"
+Read port: 55554
+Read port: 55554
+Read port: 55554
+Read port: 55554
+Read port: 55554
+Read port: 55554
+Read port: 55554
+1772741095032	Marionette	INFO	Marionette enabled
+Read port: 55554
+2026-03-05 20:04:55.084 Firefox GPU Helper[84560:1513822] Failure on line 687 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+Read port: 55554
+2026-03-05 20:04:55.169 Firefox GPU Helper[84560:1513822] Error received in message reply handler: Connection invalid
+2026-03-05 20:04:55.169 Firefox GPU Helper[84560:1513835] Connection Invalid error for service com.apple.hiservices-xpcservice.
+Read port: 55554
+1772741095305	Marionette	INFO	Listening on port 55607
+Read port: 55607
+WebDriver BiDi listening on ws://127.0.0.1:55592
+1772741095407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1772741099516	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.error: [Exception... "Favicon at "https://api-3c4fa2e2.duosecurity.com/favicon.ico" failed to load."  nsresult: "0x805303f4 (NS_ERROR_DOM_BAD_URI)"  location: "JS frame :: resource:///modules/FaviconLoader.sys.mjs :: onStopRequest :: line 274"  data: no]
+console.error: [Exception... "Component is not available"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "<unknown>"  data: no]
+1772741104250	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1772741219835	geckodriver	INFO	Listening on 127.0.0.1:55659
+1772741220352	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-profile" "/Users/christopherreali/Library/Application Support/Firefox/Profiles/13qyqlre.default-release" "--remote-debugging-port" "55660" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote"
+Read port: 55607
+Read port: 55607
+Read port: 55607
+Read port: 55607
+Read port: 55607
+Read port: 55607
+Read port: 55607
+1772741221049	Marionette	INFO	Marionette enabled
+Read port: 55607
+2026-03-05 20:07:01.113 Firefox GPU Helper[85112:1517636] Failure on line 687 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+Read port: 55607
+2026-03-05 20:07:01.201 Firefox GPU Helper[85112:1517636] Error received in message reply handler: Connection invalid
+2026-03-05 20:07:01.201 Firefox GPU Helper[85112:1517653] Connection Invalid error for service com.apple.hiservices-xpcservice.
+Read port: 55607
+1772741221300	Marionette	INFO	Listening on port 55674
+WebDriver BiDi listening on ws://127.0.0.1:55660
+Read port: 55674
+1772741221433	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1772741225674	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+1772741250983	Marionette	INFO	Stopped listening on port 55674
+1772741251093	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+1772741271998	geckodriver	INFO	Listening on 127.0.0.1:55698
+1772741272506	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-profile" "/Users/christopherreali/Library/Application Support/Firefox/Profiles/13qyqlre.default-release" "--remote-debugging-port" "55699" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote"
+1772741273147	Marionette	INFO	Marionette enabled
+2026-03-05 20:07:53.212 Firefox GPU Helper[85235:1519592] Failure on line 687 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+2026-03-05 20:07:53.300 Firefox GPU Helper[85235:1519592] Error received in message reply handler: Connection invalid
+2026-03-05 20:07:53.300 Firefox GPU Helper[85235:1519615] Connection Invalid error for service com.apple.hiservices-xpcservice.
+1772741273378	Marionette	INFO	Listening on port 55704
+Read port: 55704
+WebDriver BiDi listening on ws://127.0.0.1:55699
+1772741273486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1772741278003	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.error: [Exception... "Favicon at "https://api-3c4fa2e2.duosecurity.com/favicon.ico" failed to load."  nsresult: "0x805303f4 (NS_ERROR_DOM_BAD_URI)"  location: "JS frame :: resource:///modules/FaviconLoader.sys.mjs :: onStopRequest :: line 274"  data: no]
+console.error: [Exception... "Component is not available"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "<unknown>"  data: no]
+1772741282707	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1772741404524	geckodriver	INFO	Listening on 127.0.0.1:55734
+1772741405040	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-profile" "/Users/christopherreali/Library/Application Support/Firefox/Profiles/13qyqlre.default-release" "--remote-debugging-port" "55735" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote"
+Read port: 55704
+Read port: 55704
+Read port: 55704
+Read port: 55704
+Read port: 55704
+Read port: 55704
+1772741405618	Marionette	INFO	Marionette enabled
+Read port: 55704
+2026-03-05 20:10:05.684 Firefox GPU Helper[85857:1522689] Failure on line 687 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+2026-03-05 20:10:05.768 Firefox GPU Helper[85857:1522689] Error received in message reply handler: Connection invalid
+2026-03-05 20:10:05.768 Firefox GPU Helper[85857:1522703] Connection Invalid error for service com.apple.hiservices-xpcservice.
+Read port: 55704
+1772741405859	Marionette	INFO	Listening on port 55748
+WebDriver BiDi listening on ws://127.0.0.1:55735
+Read port: 55748
+1772741405963	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1772741410120	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.error: [Exception... "Favicon at "https://api-3c4fa2e2.duosecurity.com/favicon.ico" failed to load."  nsresult: "0x805303f4 (NS_ERROR_DOM_BAD_URI)"  location: "JS frame :: resource:///modules/FaviconLoader.sys.mjs :: onStopRequest :: line 274"  data: no]
+console.error: [Exception... "Component is not available"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "<unknown>"  data: no]
+1772741415130	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart, line 8: Script terminated by timeout at:
+nrWrapper@https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart:8:29994
+
+JavaScript warning: https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart, line 8: Script terminated by timeout at:
+nrWrapper@https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart:8:29994
+
+JavaScript warning: https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart, line 8: Script terminated by timeout at:
+nrWrapper@https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart:8:29994
+
+JavaScript warning: https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart, line 8: Script terminated by timeout at:
+nrWrapper@https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart:8:29994
+
+JavaScript warning: https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart, line 8: Script terminated by timeout at:
+nrWrapper@https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart:8:29994
+
+JavaScript warning: https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart, line 8: Script terminated by timeout at:
+nrWrapper@https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart:8:29994
+
+JavaScript warning: https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart, line 8: Script terminated by timeout at:
+nrWrapper@https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart:8:29994
+
+JavaScript warning: https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart, line 8: Script terminated by timeout at:
+nrWrapper@https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart:8:29994
+
+1772741507935	geckodriver	INFO	Listening on 127.0.0.1:55794
+1772741508452	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-profile" "/Users/christopherreali/Library/Application Support/Firefox/Profiles/13qyqlre.default-release" "--remote-debugging-port" "55795" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote"
+Read port: 55748
+1772741508457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1772741512953	Marionette	INFO	Stopped listening on port 55748
+JavaScript error: resource://gre/modules/ConduitsChild.sys.mjs, line 199: Error: PortDisconnect for closed conduit 687194768418: ({portId:2061584302084, source:false, error:null})
+1772741523228	geckodriver	INFO	Listening on 127.0.0.1:55802
+1772741523746	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-profile" "/Users/christopherreali/Library/Application Support/Firefox/Profiles/13qyqlre.default-release" "--remote-debugging-port" "55803" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote"
+1772741524287	Marionette	INFO	Marionette enabled
+2026-03-05 20:12:04.357 Firefox GPU Helper[86806:1528479] Failure on line 687 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+2026-03-05 20:12:04.440 Firefox GPU Helper[86806:1528493] Connection Invalid error for service com.apple.hiservices-xpcservice.
+2026-03-05 20:12:04.440 Firefox GPU Helper[86806:1528479] Error received in message reply handler: Connection invalid
+1772741524487	Marionette	INFO	Listening on port 55808
+WebDriver BiDi listening on ws://127.0.0.1:55803
+Read port: 55808
+1772741524634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1772741527231	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.error: [Exception... "Favicon at "https://api-3c4fa2e2.duosecurity.com/favicon.ico" failed to load."  nsresult: "0x805303f4 (NS_ERROR_DOM_BAD_URI)"  location: "JS frame :: resource:///modules/FaviconLoader.sys.mjs :: onStopRequest :: line 274"  data: no]
+console.error: [Exception... "Component is not available"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "<unknown>"  data: no]
+1772741571416	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1772741707190	geckodriver	INFO	Listening on 127.0.0.1:55874
+1772741707712	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-profile" "/Users/christopherreali/Library/Application Support/Firefox/Profiles/13qyqlre.default-release" "--remote-debugging-port" "55875" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote"
+Read port: 55808
+1772741707718	Marionette	WARN	Connection attempt denied because an active session has been found
+Read port: 55808
+1772741707824	Marionette	WARN	Connection attempt denied because an active session has been found
+Read port: 55808
+1772741707929	Marionette	WARN	Connection attempt denied because an active session has been found
+Read port: 55808
+1772741708035	Marionette	WARN	Connection attempt denied because an active session has been found
+Read port: 55808
+1772741708142	Marionette	WARN	Connection attempt denied because an active session has been found
+JavaScript warning: https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart, line 8: Script terminated by timeout at:
+nrWrapper@https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart:8:29994
+
+JavaScript warning: https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart, line 8: Script terminated by timeout at:
+nrWrapper@https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart:8:29994
+
+JavaScript warning: https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart, line 8: Script terminated by timeout at:
+nrWrapper@https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart:8:29994
+
+JavaScript warning: https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart, line 8: Script terminated by timeout at:
+nrWrapper@https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart:8:29994
+
+JavaScript warning: https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart, line 8: Script terminated by timeout at:
+r@https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart:8:26713
+nrWrapper@https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart:8:30022
+
+JavaScript warning: https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart, line 8: Script terminated by timeout at:
+nrWrapper@https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart:8:29994
+
+JavaScript warning: https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart, line 8: Script terminated by timeout at:
+nrWrapper@https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart:8:29994
+
+1772741716649	Marionette	INFO	Stopped listening on port 55808
+1772741724007	geckodriver	INFO	Listening on 127.0.0.1:55891
+1772741724015	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-profile" "/Users/christopherreali/Library/Application Support/Firefox/Profiles/13qyqlre.default-release" "--remote-debugging-port" "55892" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote"
+1772741724338	Marionette	INFO	Marionette enabled
+2026-03-05 20:15:24.414 Firefox GPU Helper[87972:1534690] Failure on line 687 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+2026-03-05 20:15:24.502 Firefox GPU Helper[87972:1534690] Error received in message reply handler: Connection invalid
+2026-03-05 20:15:24.502 Firefox GPU Helper[87972:1534705] Connection Invalid error for service com.apple.hiservices-xpcservice.
+1772741724552	Marionette	INFO	Listening on port 55896
+WebDriver BiDi listening on ws://127.0.0.1:55892
+Read port: 55896
+1772741724705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1772741727448	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.error: [Exception... "Favicon at "https://api-3c4fa2e2.duosecurity.com/favicon.ico" failed to load."  nsresult: "0x805303f4 (NS_ERROR_DOM_BAD_URI)"  location: "JS frame :: resource:///modules/FaviconLoader.sys.mjs :: onStopRequest :: line 274"  data: no]
+console.error: [Exception... "Component is not available"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "<unknown>"  data: no]
+1772741732225	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1772741779348	geckodriver	INFO	Listening on 127.0.0.1:55943
+1772741779356	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-profile" "/Users/christopherreali/Library/Application Support/Firefox/Profiles/13qyqlre.default-release" "--remote-debugging-port" "55944" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote"
+Read port: 55896
+Read port: 55896
+Read port: 55896
+Read port: 55896
+1772741779708	Marionette	INFO	Marionette enabled
+Read port: 55896
+2026-03-05 20:16:19.777 Firefox GPU Helper[88439:1537339] Failure on line 687 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+2026-03-05 20:16:19.863 Firefox GPU Helper[88439:1537339] Error received in message reply handler: Connection invalid
+2026-03-05 20:16:19.863 Firefox GPU Helper[88439:1537353] Connection Invalid error for service com.apple.hiservices-xpcservice.
+Read port: 55896
+1772741779903	Marionette	INFO	Listening on port 55953
+WebDriver BiDi listening on ws://127.0.0.1:55944
+Read port: 55953
+1772741780025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1772741784306	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.error: [Exception... "Favicon at "https://api-3c4fa2e2.duosecurity.com/favicon.ico" failed to load."  nsresult: "0x805303f4 (NS_ERROR_DOM_BAD_URI)"  location: "JS frame :: resource:///modules/FaviconLoader.sys.mjs :: onStopRequest :: line 274"  data: no]
+console.error: [Exception... "Component is not available"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "<unknown>"  data: no]
+1772741807964	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart, line 8: Script terminated by timeout at:
+nrWrapper@https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart:8:29994
+
+JavaScript warning: https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart, line 8: Script terminated by timeout at:
+nrWrapper@https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart:8:29994
+
+1772742039710	Marionette	INFO	Stopped listening on port 55953
+1772742047571	geckodriver	INFO	Listening on 127.0.0.1:56024
+1772742048088	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-profile" "/Users/christopherreali/Library/Application Support/Firefox/Profiles/13qyqlre.default-release" "--remote-debugging-port" "56025" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote"
+1772742048841	Marionette	INFO	Marionette enabled
+2026-03-05 20:20:48.903 Firefox GPU Helper[89244:1543966] Failure on line 687 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+2026-03-05 20:20:48.999 Firefox GPU Helper[89244:1543966] Error received in message reply handler: Connection invalid
+2026-03-05 20:20:48.999 Firefox GPU Helper[89244:1543983] Connection Invalid error for service com.apple.hiservices-xpcservice.
+1772742049041	Marionette	INFO	Listening on port 56030
+WebDriver BiDi listening on ws://127.0.0.1:56025
+Read port: 56030
+1772742049196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1772742051852	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.error: [Exception... "Favicon at "https://api-3c4fa2e2.duosecurity.com/favicon.ico" failed to load."  nsresult: "0x805303f4 (NS_ERROR_DOM_BAD_URI)"  location: "JS frame :: resource:///modules/FaviconLoader.sys.mjs :: onStopRequest :: line 274"  data: no]
+console.error: [Exception... "Component is not available"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "<unknown>"  data: no]
+1772742057378	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1772742164561	geckodriver	INFO	Listening on 127.0.0.1:56088
+1772742165081	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-profile" "/Users/christopherreali/Library/Application Support/Firefox/Profiles/13qyqlre.default-release" "--remote-debugging-port" "56089" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote"
+Read port: 56030
+1772742165097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart, line 8: Script terminated by timeout at:
+nrWrapper@https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart:8:29994
+
+JavaScript warning: https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart, line 8: Script terminated by timeout at:
+nrWrapper@https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart:8:29994
+
+1772742171015	Marionette	INFO	Stopped listening on port 56030
+JavaScript error: resource://gre/modules/ConduitsChild.sys.mjs, line 199: Error: PortDisconnect for closed conduit 687194768074: ({portId:1099511627790, source:false, error:null})
+JavaScript error: resource://gre/modules/ConduitsChild.sys.mjs, line 199: Error: PortDisconnect for closed conduit 687194768092: ({portId:1236950581252, source:false, error:null})
+1772742171069	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+1772742180289	geckodriver	INFO	Listening on 127.0.0.1:56105
+1772742180806	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-profile" "/Users/christopherreali/Library/Application Support/Firefox/Profiles/13qyqlre.default-release" "--remote-debugging-port" "56106" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote"
+1772742181175	Marionette	INFO	Marionette enabled
+2026-03-05 20:23:01.246 Firefox GPU Helper[90041:1548072] Failure on line 687 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+2026-03-05 20:23:01.334 Firefox GPU Helper[90041:1548088] Connection Invalid error for service com.apple.hiservices-xpcservice.
+2026-03-05 20:23:01.334 Firefox GPU Helper[90041:1548072] Error received in message reply handler: Connection invalid
+1772742181389	Marionette	INFO	Listening on port 56111
+WebDriver BiDi listening on ws://127.0.0.1:56106
+Read port: 56111
+1772742181504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1772742184325	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.error: [Exception... "Favicon at "https://api-3c4fa2e2.duosecurity.com/favicon.ico" failed to load."  nsresult: "0x805303f4 (NS_ERROR_DOM_BAD_URI)"  location: "JS frame :: resource:///modules/FaviconLoader.sys.mjs :: onStopRequest :: line 274"  data: no]
+console.error: [Exception... "Component is not available"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "<unknown>"  data: no]
+1772742189174	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1772742237848	geckodriver	INFO	Listening on 127.0.0.1:56158
+1772742238365	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-profile" "/Users/christopherreali/Library/Application Support/Firefox/Profiles/13qyqlre.default-release" "--remote-debugging-port" "56159" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote"
+Read port: 56111
+Read port: 56111
+Read port: 56111
+Read port: 56111
+1772742238739	Marionette	INFO	Marionette enabled
+Read port: 56111
+2026-03-05 20:23:58.808 Firefox GPU Helper[90578:1550597] Failure on line 687 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+2026-03-05 20:23:58.873 Firefox GPU Helper[90578:1550597] Error received in message reply handler: Connection invalid
+2026-03-05 20:23:58.873 Firefox GPU Helper[90578:1550615] Connection Invalid error for service com.apple.hiservices-xpcservice.
+Read port: 56111
+1772742238909	Marionette	INFO	Listening on port 56170
+WebDriver BiDi listening on ws://127.0.0.1:56159
+Read port: 56170
+1772742239049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1772742241811	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.error: [Exception... "Favicon at "https://api-3c4fa2e2.duosecurity.com/favicon.ico" failed to load."  nsresult: "0x805303f4 (NS_ERROR_DOM_BAD_URI)"  location: "JS frame :: resource:///modules/FaviconLoader.sys.mjs :: onStopRequest :: line 274"  data: no]
+console.error: [Exception... "Component is not available"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "<unknown>"  data: no]
+1772742247455	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart, line 8: Script terminated by timeout at:
+nrWrapper@https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart:8:29994
+
+JavaScript warning: https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart, line 8: Script terminated by timeout at:
+nrWrapper@https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart:8:29994
+
+1772742314949	Marionette	INFO	Stopped listening on port 56170
+1772742679395	geckodriver	INFO	Listening on 127.0.0.1:56251
+1772742679892	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/Applications/Firefox. ... les/13qyqlre.default-release" "--remote-debugging-port" "56252" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote"
+1772742680833	Marionette	INFO	Marionette enabled
+2026-03-05 20:31:20.900 Firefox GPU Helper[92318:1560949] Failure on line 687 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+2026-03-05 20:31:20.986 Firefox GPU Helper[92318:1560963] Connection Invalid error for service com.apple.hiservices-xpcservice.
+2026-03-05 20:31:20.986 Firefox GPU Helper[92318:1560949] Error received in message reply handler: Connection invalid
+1772742681058	Marionette	INFO	Listening on port 56258
+WebDriver BiDi listening on ws://127.0.0.1:56252
+Read port: 56258
+1772742681210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1772742683100	Marionette	INFO	Stopped listening on port 56258
+1772742683122	geckodriver::marionette	ERROR	Failed to close browser connection: unknown error
+1772742797114	geckodriver	INFO	Listening on 127.0.0.1:56281
+1772742797122	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/Applications/Firefox. ... les/13qyqlre.default-release" "--remote-debugging-port" "56282" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote"
+1772742797526	Marionette	INFO	Marionette enabled
+2026-03-05 20:33:17.595 Firefox GPU Helper[92797:1563690] Failure on line 687 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+2026-03-05 20:33:17.690 Firefox GPU Helper[92797:1563690] Error received in message reply handler: Connection invalid
+2026-03-05 20:33:17.690 Firefox GPU Helper[92797:1563705] Connection Invalid error for service com.apple.hiservices-xpcservice.
+1772742797755	Marionette	INFO	Listening on port 56285
+WebDriver BiDi listening on ws://127.0.0.1:56282
+Read port: 56285
+1772742797912	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1772742800458	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1772742836117	geckodriver	INFO	Listening on 127.0.0.1:56318
+1772742836131	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/Applications/Firefox. ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xl/vxl8b6r12gq_byq5f1zfjv240000gn/T/rust_mozprofilepgrYgC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1772742836623	Marionette	INFO	Marionette enabled
+2026-03-05 20:33:56.689 Firefox GPU Helper[93235:1565356] Failure on line 687 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+2026-03-05 20:33:56.774 Firefox GPU Helper[93235:1565372] Connection Invalid error for service com.apple.hiservices-xpcservice.
+2026-03-05 20:33:56.774 Firefox GPU Helper[93235:1565356] Error received in message reply handler: Connection invalid
+1772742836850	Marionette	INFO	Listening on port 56322
+WebDriver BiDi listening on ws://127.0.0.1:56319
+1772742836943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1772742839993	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1772742860762	geckodriver	INFO	Listening on 127.0.0.1:56363
+1772742861282	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/Applications/Firefox. ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xl/vxl8b6r12gq_byq5f1zfjv240000gn/T/rust_mozprofileZx3Fvx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1772742861709	Marionette	INFO	Marionette enabled
+2026-03-05 20:34:21.781 Firefox GPU Helper[93554:1566721] Failure on line 687 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+2026-03-05 20:34:21.848 Firefox GPU Helper[93554:1566721] Error received in message reply handler: Connection invalid
+2026-03-05 20:34:21.848 Firefox GPU Helper[93554:1566744] Connection Invalid error for service com.apple.hiservices-xpcservice.
+1772742861945	Marionette	INFO	Listening on port 56369
+WebDriver BiDi listening on ws://127.0.0.1:56364
+1772742862044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1772742865058	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.error: [Exception... "Favicon at "https://api-3c4fa2e2.duosecurity.com/favicon.ico" failed to load."  nsresult: "0x805303f4 (NS_ERROR_DOM_BAD_URI)"  location: "JS frame :: resource:///modules/FaviconLoader.sys.mjs :: onStopRequest :: line 274"  data: no]
+console.error: [Exception... "Favicon at "https://api-3c4fa2e2.duosecurity.com/favicon.ico" failed to load."  nsresult: "0x805303f4 (NS_ERROR_DOM_BAD_URI)"  location: "JS frame :: resource:///modules/FaviconLoader.sys.mjs :: onStopRequest :: line 274"  data: no]
+1772742872774	Marionette	INFO	Stopped listening on port 56369
+JavaScript error: resource://gre/modules/PrivateBrowsingUtils.sys.mjs, line 19: TypeError: can't access property "isChromeWindow", aWindow is null
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+1772742873336	geckodriver::marionette	ERROR	Failed to close browser connection: unknown error
+1772743217897	geckodriver	INFO	Listening on 127.0.0.1:56480
+1772743253574	geckodriver	INFO	Listening on 127.0.0.1:56491
+1772743296597	geckodriver	INFO	Listening on 127.0.0.1:56502
+1772743333104	geckodriver	INFO	Listening on 127.0.0.1:56509
+1772743333116	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/Applications/Firefox. ... les/13qyqlre.default-release" "--remote-debugging-port" "56510" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote"
+Read port: 56285
+Read port: 56285
+Read port: 56285
+Read port: 56285
+Read port: 56285
+Read port: 56285
+Read port: 56285
+Read port: 56285
+Read port: 56285
+Read port: 56285
+1772743334151	Marionette	INFO	Marionette enabled
+Read port: 56285
+2026-03-05 20:42:14.218 Firefox GPU Helper[96134:1579034] Failure on line 687 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+Read port: 56285
+2026-03-05 20:42:14.311 Firefox GPU Helper[96134:1579034] Error received in message reply handler: Connection invalid
+2026-03-05 20:42:14.311 Firefox GPU Helper[96134:1579050] Connection Invalid error for service com.apple.hiservices-xpcservice.
+Read port: 56285
+1772743334413	Marionette	INFO	Listening on port 56525
+WebDriver BiDi listening on ws://127.0.0.1:56510
+Read port: 56525
+1772743334550	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1772743341454	geckodriver	INFO	Listening on 127.0.0.1:56545
+1772743341465	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/Applications/Firefox. ... les/13qyqlre.default-release" "--remote-debugging-port" "56546" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote"
+Read port: 56525
+Read port: 56525
+Read port: 56525
+Read port: 56525
+Read port: 56525
+Read port: 56525
+Read port: 56525
+1772743342161	Marionette	INFO	Marionette enabled
+Read port: 56525
+2026-03-05 20:42:22.228 Firefox GPU Helper[96523:1580021] Failure on line 687 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+Read port: 56525
+2026-03-05 20:42:22.303 Firefox GPU Helper[96523:1580035] Connection Invalid error for service com.apple.hiservices-xpcservice.
+2026-03-05 20:42:22.303 Firefox GPU Helper[96523:1580021] Error received in message reply handler: Connection invalid
+1772743342369	Marionette	INFO	Listening on port 56558
+WebDriver BiDi listening on ws://127.0.0.1:56546
+Read port: 56558
+1772743342495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1772743355722	geckodriver	INFO	Listening on 127.0.0.1:56567
+1772743356230	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/Applications/Firefox. ... les/13qyqlre.default-release" "--remote-debugging-port" "56568" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote"
+Read port: 56558
+Read port: 56558
+Read port: 56558
+Read port: 56558
+1772743356549	Marionette	INFO	Marionette enabled
+2026-03-05 20:42:36.615 Firefox GPU Helper[96907:1581055] Failure on line 687 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+Read port: 56558
+2026-03-05 20:42:36.681 Firefox GPU Helper[96907:1581070] Connection Invalid error for service com.apple.hiservices-xpcservice.
+2026-03-05 20:42:36.681 Firefox GPU Helper[96907:1581055] Error received in message reply handler: Connection invalid
+1772743356743	Marionette	INFO	Listening on port 56578
+WebDriver BiDi listening on ws://127.0.0.1:56568
+Read port: 56578
+1772743356843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1772743359607	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.error: [Exception... "Favicon at "https://api-3c4fa2e2.duosecurity.com/favicon.ico" failed to load."  nsresult: "0x805303f4 (NS_ERROR_DOM_BAD_URI)"  location: "JS frame :: resource:///modules/FaviconLoader.sys.mjs :: onStopRequest :: line 274"  data: no]
+console.error: [Exception... "Component is not available"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "<unknown>"  data: no]
+1772743364707	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1772743392535	geckodriver	INFO	Listening on 127.0.0.1:56631
+1772743469123	geckodriver	INFO	Listening on 127.0.0.1:56642
+1772743477887	geckodriver	INFO	Listening on 127.0.0.1:56649
+1772743478406	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/Applications/Firefox. ... les/13qyqlre.default-release" "--remote-debugging-port" "56650" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote"
+Read port: 56578
+Read port: 56578
+Read port: 56578
+Read port: 56578
+Read port: 56578
+1772743478879	Marionette	INFO	Marionette enabled
+Read port: 56578
+2026-03-05 20:44:38.946 Firefox GPU Helper[98320:1584924] Failure on line 687 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+2026-03-05 20:44:39.037 Firefox GPU Helper[98320:1584924] Error received in message reply handler: Connection invalid
+2026-03-05 20:44:39.037 Firefox GPU Helper[98320:1584941] Connection Invalid error for service com.apple.hiservices-xpcservice.
+Read port: 56578
+1772743479139	Marionette	INFO	Listening on port 56663
+Read port: 56663
+WebDriver BiDi listening on ws://127.0.0.1:56650
+1772743479227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+Exiting due to channel error.
+Exiting due to channel error.
+1772743725679	geckodriver	INFO	Listening on 127.0.0.1:56715
+1772743726197	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/Applications/Firefox. ... les/13qyqlre.default-release" "--remote-debugging-port" "56716" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote"
+Read port: 56663
+Read port: 56663
+Read port: 56663
+Read port: 56663
+Read port: 56663
+Read port: 56663
+Read port: 56663
+Read port: 56663
+Read port: 56663
+1772743727099	Marionette	INFO	Marionette enabled
+Read port: 56663
+2026-03-05 20:48:47.162 Firefox GPU Helper[99683:1590534] Failure on line 687 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+Read port: 56663
+2026-03-05 20:48:47.252 Firefox GPU Helper[99683:1590545] Connection Invalid error for service com.apple.hiservices-xpcservice.
+2026-03-05 20:48:47.252 Firefox GPU Helper[99683:1590534] Error received in message reply handler: Connection invalid
+1772743727347	Marionette	INFO	Listening on port 56733
+Read port: 56733
+WebDriver BiDi listening on ws://127.0.0.1:56716
+1772743727445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1772743730926	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.error: [Exception... "Favicon at "https://api-3c4fa2e2.duosecurity.com/favicon.ico" failed to load."  nsresult: "0x805303f4 (NS_ERROR_DOM_BAD_URI)"  location: "JS frame :: resource:///modules/FaviconLoader.sys.mjs :: onStopRequest :: line 274"  data: no]
+console.error: [Exception... "Component is not available"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "<unknown>"  data: no]
+1772743736215	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart, line 8: Script terminated by timeout at:
+nrWrapper@https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart:8:29995
+
+JavaScript warning: https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart, line 8: Script terminated by timeout at:
+nrWrapper@https://erau.collegescheduler.com/terms/Daytona-Prescott%202026%20Fall/cart:8:29994
+
+1772743755857	Marionette	INFO	Stopped listening on port 56733
+JavaScript error: resource://gre/modules/ConduitsChild.sys.mjs, line 199: Error: PortDisconnect for closed conduit 687194768073: ({portId:962072674383, source:false, error:null})
+1772744230406	geckodriver	INFO	Listening on 127.0.0.1:56826
+1772744230927	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/Applications/Firefox. ... les/13qyqlre.default-release" "--remote-debugging-port" "56827" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote"
+1772744231404	Marionette	INFO	Marionette enabled
+2026-03-05 20:57:11.479 Firefox GPU Helper[1120:1598369] Failure on line 687 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+2026-03-05 20:57:11.583 Firefox GPU Helper[1120:1598369] Error received in message reply handler: Connection invalid
+2026-03-05 20:57:11.583 Firefox GPU Helper[1120:1598384] Connection Invalid error for service com.apple.hiservices-xpcservice.
+1772744231621	Marionette	INFO	Listening on port 56832
+WebDriver BiDi listening on ws://127.0.0.1:56827
+Read port: 56832
+1772744231764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1772744233366	Marionette	INFO	Stopped listening on port 56832
+1772744233384	geckodriver::marionette	ERROR	Failed to close browser connection: unknown error
+1772744267362	geckodriver	INFO	Listening on 127.0.0.1:56845
+1772744267366	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/Applications/Firefox. ... les/13qyqlre.default-release" "--remote-debugging-port" "56846" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote"
+1772744267817	Marionette	INFO	Marionette enabled
+2026-03-05 20:57:47.894 Firefox GPU Helper[1636:1600030] Failure on line 687 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+2026-03-05 20:57:47.992 Firefox GPU Helper[1636:1600055] Connection Invalid error for service com.apple.hiservices-xpcservice.
+2026-03-05 20:57:47.992 Firefox GPU Helper[1636:1600030] Error received in message reply handler: Connection invalid
+1772744268010	Marionette	INFO	Listening on port 56850
+WebDriver BiDi listening on ws://127.0.0.1:56846
+Read port: 56850
+1772744268168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1772744269553	Marionette	INFO	Stopped listening on port 56850
+1772744281099	geckodriver	INFO	Listening on 127.0.0.1:56864
+1772744281120	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/Applications/Firefox. ... les/13qyqlre.default-release" "--remote-debugging-port" "56865" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote"
+1772744281451	Marionette	INFO	Marionette enabled
+2026-03-05 20:58:01.524 Firefox GPU Helper[2042:1601184] Failure on line 687 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+2026-03-05 20:58:01.591 Firefox GPU Helper[2042:1601198] Connection Invalid error for service com.apple.hiservices-xpcservice.
+2026-03-05 20:58:01.591 Firefox GPU Helper[2042:1601184] Error received in message reply handler: Connection invalid
+1772744281638	Marionette	INFO	Listening on port 56868
+Read port: 56868
+WebDriver BiDi listening on ws://127.0.0.1:56865
+1772744281714	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1772744284548	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.error: [Exception... "Favicon at "https://api-3c4fa2e2.duosecurity.com/favicon.ico" failed to load."  nsresult: "0x805303f4 (NS_ERROR_DOM_BAD_URI)"  location: "JS frame :: resource:///modules/FaviconLoader.sys.mjs :: onStopRequest :: line 274"  data: no]
+console.error: [Exception... "Component is not available"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "<unknown>"  data: no]
+1772744289667	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1772744459904	geckodriver	INFO	Listening on 127.0.0.1:56908
+1772744460416	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/Applications/Firefox. ... les/13qyqlre.default-release" "--remote-debugging-port" "56909" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote"
+Read port: 56868
+Read port: 56868
+Read port: 56868
+Read port: 56868
+Read port: 56868
+Read port: 56868
+Read port: 56868
+1772744461081	Marionette	INFO	Marionette enabled
+2026-03-05 21:01:01.137 Firefox GPU Helper[2763:1605866] Failure on line 687 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+Read port: 56868
+2026-03-05 21:01:01.243 Firefox GPU Helper[2763:1605894] Connection Invalid error for service com.apple.hiservices-xpcservice.
+2026-03-05 21:01:01.243 Firefox GPU Helper[2763:1605866] Error received in message reply handler: Connection invalid
+Read port: 56868
+1772744461331	Marionette	INFO	Listening on port 56923
+Read port: 56923
+WebDriver BiDi listening on ws://127.0.0.1:56909
+1772744461451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1772744464631	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fed.erau.edu."
+console.error: [Exception... "Favicon at "https://api-3c4fa2e2.duosecurity.com/favicon.ico" failed to load."  nsresult: "0x805303f4 (NS_ERROR_DOM_BAD_URI)"  location: "JS frame :: resource:///modules/FaviconLoader.sys.mjs :: onStopRequest :: line 274"  data: no]
+console.error: [Exception... "Component is not available"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "<unknown>"  data: no]
+1772744469572	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
