@@ -30,10 +30,10 @@ Your username to login to ERNIE
 Your password to log into ERNIE
 
 #### `targetTime = ""` 
-This is the time you want to have the script login at. It is in the format `HH:MM`
-
-
-
+This is the time you want to have the script login at. It is in the format `HH:MM`  
+.  
+.  
+.  
 `DEV_TABS = 2` This is how many tabs the program should open and be loging in on. It opens this many tabs beforehand and configures them so when it comes time, it goes through each and confirms the registration sending that many requests to the server.
 
 `SHOPPING_CART_DELAY = 5` IDK what this does, David made this. I`d recommend not changing it.
